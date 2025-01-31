@@ -73,7 +73,7 @@ function Portfolio(){
                 </div>
 
                 <div>
-                    <img class="w-full" src="ME.jpg" alt="" />
+                    <img class="w-full" src="Me.jpg" alt="" />
                 </div>
             </div>
         </div>
@@ -171,7 +171,7 @@ function Portfolio(){
             <div class="overflow-hidden bg-white rounded-md shadow">
                 <div class="px-8 py-12">
                     <div class="relative w-24 h-24 mx-auto">
-                        <img class="relative object-cover w-24 h-24 mx-auto rounded-full" src="java.png" alt="" />
+                        <img class="relative object-cover w-24 h-24 mx-auto rounded-full" src="Java.png" alt="" />
                         <div class="absolute top-0 right-0 flex items-center justify-center bg-blue-600 rounded-full w-7 h-7">
                             <svg class="w-4 h-4 text-white" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor">
                                 <path
